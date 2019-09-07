@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204165574809",
+    "firebase_url": "https://login-check-c20b7.firebaseio.com",
+    "project_id": "login-check-c20b7",
+    "storage_bucket": "login-check-c20b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204165574809:android:64d59ac64f3bf551",
+        "android_client_info": {
+          "package_name": "com.example.logincheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204165574809-bi58c3qrdq1tp0875sl32gq6rl27um02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXAahC5qno0CyX57s6fKeqoA9EzAAJqRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204165574809-bi58c3qrdq1tp0875sl32gq6rl27um02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
